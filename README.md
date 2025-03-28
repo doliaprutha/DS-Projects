@@ -1,4 +1,4 @@
-## 📁 Projects
+## Projects
 
 ### 1. A/B Test: Landing Page Conversion
 **Goal**: Evaluate if a new landing page improves conversion rate  
